@@ -1,10 +1,3 @@
-# B站ID：湾区书记汤姆
-该博客是通过 GitHub Pages + Jekyll(主题是Chirpy) 搭建而成的
-下面是关于 Chirpy 的搭建示例~
+# 欢迎来到扫白除恶博物馆
 
-
-# Chirpy
-
-Chirpy 主题的 GitHub 链接是：[**Chirpy**][chirpy] 
-
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+收留心碎霂山粉，欢迎来到复旦中文系本科生/自由如风富婆/A6姐/天天/白女士的博物馆….
