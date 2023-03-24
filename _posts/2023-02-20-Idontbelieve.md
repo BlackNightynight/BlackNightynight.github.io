@@ -1,9 +1,9 @@
 ---
 title: 普信天花板
-categories: [发情]
-tags: [芙芙]
+categories: [发情记录]
+tags: [芙芙,试试嘛,我不信]
 
-toc: true
+toc: false
 comments: true
 typora-root-url: ../../BlackNightynight.github.io
 mermaid: true
