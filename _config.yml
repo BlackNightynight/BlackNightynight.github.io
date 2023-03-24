@@ -21,9 +21,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 博物馆馆长                         # the main title
+title: 《决战：扫白除恶》博物馆                         # the main title
 
-tagline: 欢迎来到扫白除恶博物馆～   # it will display as the sub-title
+tagline: 欢迎来到扫白除恶博物馆，我是馆长   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
