@@ -1,16 +1,14 @@
 ---
 title: !普信天花板!
-date: 2023-03-25 06:00:00 +0800
+
 categories: [发情记录]
 tags: [芙芙][我不信][试试嘛]
-pin: false
-author: BlackNightynight
 
-toc: true
+toc: false
 comments: true
 typora-root-url: ../../BlackNightynight.github.io
 math: false
-mermaid: true
+mermaid: false
 ---
 
 # “我不喜欢你”“我不信”
