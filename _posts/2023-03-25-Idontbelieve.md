@@ -1,9 +1,9 @@
 ---
-title: 普信天花板
+title: !普信天花板!
 date: 2023-03-25 06:00:00 +0800
 categories: [发情记录]
 tags: [芙芙][我不信][试试嘛]
-pin: true
+pin: false
 author: BlackNightynight
 
 toc: true
@@ -21,7 +21,7 @@ mermaid: true
 
 首先，让我们来看一眼这张梗图
 
-<img src="/assets/blog_res/2023-03-25-Idontbelieve.assets/Image_20230325064838.jpg" style="zoom: 33%;" />
+![](/assets/blog_res/2023-03-25-Idontbelieve.assets/Image_20230325064838-1679699108494-9.jpg)
 
 ------
 
