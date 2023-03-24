@@ -1,10 +1,10 @@
 ---
-title: 你好，世界！
+title: 你好，欢迎来到扫白除恶博物馆！
 date: 2022-03-26 10:34:00 +0800
-categories: [随笔]
-tags: [生活]
+categories: [介绍]
+tags: [综述]
 pin: true
-author: 湾区书记汤姆
+author: 馆长
 
 toc: true
 comments: true
