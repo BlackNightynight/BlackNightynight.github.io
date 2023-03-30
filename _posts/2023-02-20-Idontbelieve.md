@@ -1,7 +1,7 @@
 ---
 title: 普信天花板
-categories: [发情记录]
-tags: [芙芙,试试嘛,我不信]
+categories: [发情记录,投稿]
+tags: [芙芙,试试嘛,我不信,投稿]
 
 toc: false
 comments: true
